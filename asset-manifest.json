@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quotes%E2%80%8B/static/css/main.5ee2b088.chunk.css",
+    "main.js": "/quotes%E2%80%8B/static/js/main.c0c4c10a.chunk.js",
+    "main.js.map": "/quotes%E2%80%8B/static/js/main.c0c4c10a.chunk.js.map",
+    "runtime-main.js": "/quotes%E2%80%8B/static/js/runtime-main.d0f3d7a3.js",
+    "runtime-main.js.map": "/quotes%E2%80%8B/static/js/runtime-main.d0f3d7a3.js.map",
+    "static/js/2.69889216.chunk.js": "/quotes%E2%80%8B/static/js/2.69889216.chunk.js",
+    "static/js/2.69889216.chunk.js.map": "/quotes%E2%80%8B/static/js/2.69889216.chunk.js.map",
+    "static/js/3.7a6e8a91.chunk.js": "/quotes%E2%80%8B/static/js/3.7a6e8a91.chunk.js",
+    "static/js/3.7a6e8a91.chunk.js.map": "/quotes%E2%80%8B/static/js/3.7a6e8a91.chunk.js.map",
+    "index.html": "/quotes%E2%80%8B/index.html",
+    "static/css/main.5ee2b088.chunk.css.map": "/quotes%E2%80%8B/static/css/main.5ee2b088.chunk.css.map",
+    "static/js/2.69889216.chunk.js.LICENSE.txt": "/quotes%E2%80%8B/static/js/2.69889216.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0f3d7a3.js",
+    "static/js/2.69889216.chunk.js",
+    "static/css/main.5ee2b088.chunk.css",
+    "static/js/main.c0c4c10a.chunk.js"
+  ]
+}
